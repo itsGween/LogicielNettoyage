@@ -1,0 +1,6 @@
+# Fichiers et dossiers à ignorer
+.vs/
+*.vs*
+bin/
+obj/
+*.exe
